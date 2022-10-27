@@ -12,6 +12,7 @@
     "ask-sdk": "^2.12.1",
     "ask-sdk-core": "^2.12.1",
     "ask-sdk-dynamodb-persistence-adapter": "^2.12.1",
+    "ask-sdk-s3-persistence-adapter": "^2.12.1",
     "aws-sdk": "^2.1241.0"
   }
 }
