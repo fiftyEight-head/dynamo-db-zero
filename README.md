@@ -1,0 +1,1 @@
+Test to Import an Alexa-hosted Skill from a Public Git Repository
